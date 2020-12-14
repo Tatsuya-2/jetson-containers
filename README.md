@@ -91,3 +91,4 @@ $ ./scripts/docker_test_ros.sh eloquent  # build only eloquent
 $ ./scripts/docker_test_ros.sh foxy      # build only foxy
 ```
 
+https://medium.com/nvidiajapan/implementing-robotics-applications-with-ros-2-and-ai-on-jetson-platform-2-20772bb9423c
